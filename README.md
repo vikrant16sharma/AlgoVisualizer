@@ -1,4 +1,4 @@
-# 🔍 Sorting Algorithm Visualizer – Java Edition
+<img width="1072" height="1077" alt="image" src="https://github.com/user-attachments/assets/917e010a-15a4-4b0a-80ae-fadeddf235da" /># 🔍 Sorting Algorithm Visualizer – Java Edition
 
 A beautiful, real-time visualizer for popular sorting algorithms built with **Java Swing** and enhanced UI/UX.  
 Perfect for understanding how sorting works under the hood 🚀
@@ -34,7 +34,7 @@ Perfect for understanding how sorting works under the hood 🚀
 
 ## 📸 Preview
 
-![App Screenshot](screenshot.png) <!-- Replace with your own image -->
+![App Screenshot](file:///C:/Users/svikr/OneDrive/Desktop/Screenshots/Screenshot%202025-07-16%20175131.png) <!-- Replace with your own image -->
 
 ---
 
